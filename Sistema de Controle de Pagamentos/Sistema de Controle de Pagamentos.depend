@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668388837 source:c:\users\arthu\onedrive\documentos\exemplo de aula\sistema de controle de pagamentos\main.cpp
+	<iostream>
+	<string>
+	<Pagamento.h>
+	<ControleDePagamentos.h>
+
+1668388757 source:c:\users\arthu\onedrive\documentos\exemplo de aula\sistema de controle de pagamentos\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
+1668388662 c:\users\arthu\onedrive\documentos\exemplo de aula\sistema de controle de pagamentos\include\controledepagamentos.h
+	<string>
+	"Pagamento.h"
+
+1668388254 c:\users\arthu\onedrive\documentos\exemplo de aula\sistema de controle de pagamentos\include\pagamento.h
+	<string>
+
+1668388254 source:c:\users\arthu\onedrive\documentos\exemplo de aula\sistema de controle de pagamentos\src\pagamento.cpp
+	"Pagamento.h"
+
